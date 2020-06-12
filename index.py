@@ -13,4 +13,5 @@ def rec_replace(string, a, b):
         return string[0] + rec_replace(string[1:], a, b)
 
 
-print(rec_replace(main_string, replace_string, sub_string))
+print("Your new string is:",  rec_replace(
+    main_string, replace_string, sub_string))
