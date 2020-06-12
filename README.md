@@ -7,7 +7,9 @@ A program that allows a user to enter a string, a substring they wish to find an
 ### Example
 
 **Main String** - `Hi haters`
+
 **Substring String** - `Hi`
+
 **Replace String** - `Bye`
 
 **Result** - `Bye Haters`
